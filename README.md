@@ -44,16 +44,16 @@ Sunday       32 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/03/2022 20:15:51 UTC
+ Last Updated on 25/03/2022 20:15:09 UTC
 <!--END_SECTION:waka-->
