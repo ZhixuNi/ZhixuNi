@@ -15,7 +15,7 @@
   + ResearchGate: [https://www.researchgate.net/profile/Zhixu_Ni](https://www.researchgate.net/profile/Zhixu_Ni)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%2020%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -57,5 +57,5 @@ Mac                      1 hr 6 mins         ███████████�
 ```
 
 
- Last Updated on 28/10/2023 15:49:13 UTC
+ Last Updated on 29/10/2023 15:50:32 UTC
 <!--END_SECTION:waka-->
