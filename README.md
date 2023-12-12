@@ -15,7 +15,7 @@
   + ResearchGate: [https://www.researchgate.net/profile/Zhixu_Ni](https://www.researchgate.net/profile/Zhixu_Ni)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C904%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2054%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -52,5 +52,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/12/2023 15:49:20 UTC
+ Last Updated on 12/12/2023 15:49:08 UTC
 <!--END_SECTION:waka-->
