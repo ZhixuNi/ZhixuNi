@@ -15,7 +15,7 @@
   + ResearchGate: [https://www.researchgate.net/profile/Zhixu_Ni](https://www.researchgate.net/profile/Zhixu_Ni)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C904%20hrs%2023%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -42,15 +42,20 @@ Sunday                   761 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 42 mins        █████████████████░░░░░░░░   68.81 % 
+Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Jupyter                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zsh                      1 hr 50 mins        ██████████████████░░░░░░░   73.83 % 
+PyCharm                  39 mins             ███████░░░░░░░░░░░░░░░░░░   26.17 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/12/2023 15:49:08 UTC
+ Last Updated on 13/12/2023 15:49:06 UTC
 <!--END_SECTION:waka-->
