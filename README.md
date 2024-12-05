@@ -42,15 +42,16 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              █████████████░░░░░░░░░░░░   51.83 % 
+Markdown                 2 mins              ████████████░░░░░░░░░░░░░   48.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/12/2024 15:49:26 UTC
+ Last Updated on 05/12/2024 15:48:56 UTC
 <!--END_SECTION:waka-->
