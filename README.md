@@ -15,8 +15,6 @@
   + ResearchGate: [https://www.researchgate.net/profile/Zhixu_Ni](https://www.researchgate.net/profile/Zhixu_Ni)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C221%20hrs%203%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -42,15 +40,17 @@ Sunday                   4 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 14 mins       ███████████████████████░░   92.03 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  3 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2025 15:50:03 UTC
+ Last Updated on 27/03/2025 15:49:35 UTC
 <!--END_SECTION:waka-->
