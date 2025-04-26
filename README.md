@@ -42,15 +42,16 @@ Sunday                   4 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              ███████████████░░░░░░░░░░   59.11 % 
+Python                   0 secs              ██████████░░░░░░░░░░░░░░░   40.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/04/2025 15:49:01 UTC
+ Last Updated on 26/04/2025 15:47:32 UTC
 <!--END_SECTION:waka-->
