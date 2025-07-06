@@ -42,15 +42,15 @@ Sunday                   4 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-iTerm2                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/07/2025 15:48:31 UTC
+ Last Updated on 06/07/2025 15:48:29 UTC
 <!--END_SECTION:waka-->
